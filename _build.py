@@ -7,8 +7,8 @@ ROOT = pathlib.Path(__file__).parent
 LINKEDIN = "https://www.linkedin.com/in/swapnil-roy"
 GITHUB = "https://github.com/thespcrewroy"
 EMAIL = "royswapnil07@gmail.com"
-MEDIUM_LIST = "https://medium.com/@YOUR-HANDLE/list/new-media-case-study-collection"  # TODO: paste your real list URL
-MEDIUM_PROFILE = "https://medium.com/@YOUR-HANDLE"  # TODO: paste your real profile URL
+MEDIUM_LIST = "https://medium.com/@sr42946/list/new-media-case-study-collection-0e82a201ecae"
+MEDIUM_PROFILE = "https://medium.com/@sr42946"
 NMIX_REPO = "https://github.com/thespcrewroy/NMIX4030-NativeAppDev"
 SWE_REPO = "https://github.com/thespcrewroy/SoftwareEngineeringTutorials"
 
